@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "long-skills",
-      "description": "Long 项目通用 Skills 集合 — deploy.yaml 描述更新、API 安全分析",
+      "description": "Long 项目通用 Skills 集合 — deploy.yaml 描述更新、API 安全分析、运行日志规范化",
       "source": {
         "source": "url",
         "url": "https://github.com/fuck-study/long-skills.git"
